@@ -1,0 +1,2 @@
+# EventTrait
+PHP Event Trait
