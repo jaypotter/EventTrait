@@ -3,7 +3,8 @@
     "description": "PHP Event Trait",
     "type": "library",
     "require": {
-        "php": "^8.3"
+        "php": "^8.3",
+        "potter/emitter-interface": "dev-main"
     },
     "suggest": {
         "potter/event-traits": "dev-main",
